@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Production build
+dist/
+client/dist/
+
+# Android build outputs & Gradle
+client/android/.gradle/
+client/android/build/
+client/android/app/build/
+.gradle/
+
+# Uploads & Temporary files
+uploads/
+server/uploads/
+server/uploads/outputs/
+*.tmp
+
+# Environment variables
+.env
+server/.env
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
