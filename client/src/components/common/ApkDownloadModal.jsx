@@ -60,7 +60,7 @@ export default function ApkDownloadModal({ isOpen, onClose }) {
           </a>
 
           <div className="text-[11px] text-center text-slate-400">
-            Compatible with Android 8.0 (Oreo) and newer • Size: ~0.25 MB
+            Compatible with Android 8.0 (Oreo) and newer • Size: ~4.4 MB (Native Android App)
           </div>
         </div>
 
